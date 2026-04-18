@@ -63,7 +63,7 @@ stock-price-prediction/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/stock-price-prediction.git
+git clone https://github.com/leandroalanzillo/stock-price-prediction.git
 cd stock-price-prediction
 ```
 
@@ -111,6 +111,12 @@ Este projeto tem finalidade **exclusivamente educacional**. As previsões gerada
 
 ---
 
-## 👤 Autor
+## 🔗 Acesse
 
-Desenvolvido como projeto de estudo em machine learning aplicado ao mercado financeiro.
+<div align="center">
+
+[![Ver Repositório](https://img.shields.io/badge/-%20VER%20REPOSITÓRIO-black?style=for-the-badge&logo=github)](https://github.com/leandroalanzillo/stock-price-prediction)
+[![Ver Notebook](https://img.shields.io/badge/-%20VER%20NOTEBOOK-orange?style=for-the-badge&logo=jupyter)](https://github.com/leandroalanzillo/stock-price-prediction/blob/main/main.ipynb)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandrolanzillo)
+
+</div>
